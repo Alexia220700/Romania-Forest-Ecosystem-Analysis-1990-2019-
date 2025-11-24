@@ -3,7 +3,9 @@
 📊 Project Overview
 This data science project conducts an in-depth analysis of Romania's forest coverage, examining regional disparities, growth patterns, and conservation implications. The analysis provides evidence-based insights for environmental policy and sustainable forest management.
 
+
 Technical Implementation
+
 •	Used R for statistical computing and data analysis
 
 •	Used dplyr for data manipulation and aggregation
@@ -25,7 +27,9 @@ Steps
 
 
 
+
 Key Findings
+
 •	Transilvania: 7,128k ha (Primary forest region, 47% of national total)
 
 •	Muntenia & Oltenia: 4,991k ha combined (Significant secondary forest zones)
@@ -34,7 +38,9 @@ Key Findings
 
 
 
+
 Growth Analysis
+
 •	Highest Growth: Transilvania (+0.223% annually) and Banat (+0.209%)
 
 •	Stagnant Regions: Bucovina (+0.00186%) showing minimal change
@@ -46,7 +52,10 @@ Growth Analysis
 <img width="971" height="495" alt="image" src="https://github.com/user-attachments/assets/005b8c55-87be-4951-9781-7f46adf5e6da" />
 
 
+
+
 Projections to 2030
+
 •	Transilvania expected to grow from 7,602k to 7,791k ha
 
 •	Maramureș projected to decline further to 770k ha
