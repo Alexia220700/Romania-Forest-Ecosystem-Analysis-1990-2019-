@@ -14,6 +14,7 @@ Technical Implementation
 
 •	Developed exponential growth models: Projected = Current × (1 + CAGR)^years
 
+
 Steps
 1. Data Collection - I used an open data file from Kaggle
 2. Data Processing - Handled NA values, cleaned columns
@@ -21,6 +22,7 @@ Steps
 4. Statistical Testing - ANOVA for regional growth significance
 5. Predictive Modeling - Exponential growth projections (2026-2030)
 6. Geospatial Visualization - Thematic mapping with actual area labels 
+
 
 
 Key Findings
@@ -31,17 +33,24 @@ Key Findings
 •	Dobrogea & Banat: 708k ha combined (Regions requiring conservation focus)
 
 
+
 Growth Analysis
 •	Highest Growth: Transilvania (+0.223% annually) and Banat (+0.209%)
+
 •	Stagnant Regions: Bucovina (+0.00186%) showing minimal change
+
 •	Concerning Trend: Maramureș (-0.0372%) experiencing net deforestation
+
 •	Statistical Insight: ANOVA (p=0.155) confirms no significant regional growth differences
+
 <img width="971" height="495" alt="image" src="https://github.com/user-attachments/assets/005b8c55-87be-4951-9781-7f46adf5e6da" />
 
 
 Projections to 2030
 •	Transilvania expected to grow from 7,602k to 7,791k ha
+
 •	Maramureș projected to decline further to 770k ha
+
 •	Overall stable but minimal growth pattern continuing nationally
 
 
