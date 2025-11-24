@@ -5,6 +5,7 @@ This data science project conducts an in-depth analysis of Romania's forest cove
 
 Technical Implementation
 •	Used R for statistical computing and data analysis
+
 •	Used dplyr for data manipulation and aggregation
 •	Implemented ggplot2 for professional visualizations
 •	Conducted ANOVA testing to validate regional differences
