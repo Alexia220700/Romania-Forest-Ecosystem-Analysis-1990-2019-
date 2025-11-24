@@ -7,8 +7,11 @@ Technical Implementation
 •	Used R for statistical computing and data analysis
 
 •	Used dplyr for data manipulation and aggregation
+
 •	Implemented ggplot2 for professional visualizations
+
 •	Conducted ANOVA testing to validate regional differences
+
 •	Developed exponential growth models: Projected = Current × (1 + CAGR)^years
 
 Steps
@@ -22,7 +25,9 @@ Steps
 
 Key Findings
 •	Transilvania: 7,128k ha (Primary forest region, 47% of national total)
+
 •	Muntenia & Oltenia: 4,991k ha combined (Significant secondary forest zones)
+
 •	Dobrogea & Banat: 708k ha combined (Regions requiring conservation focus)
 
 
