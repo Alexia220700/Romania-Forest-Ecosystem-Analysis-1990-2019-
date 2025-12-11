@@ -1,66 +1,44 @@
-# Romania-Forest-Ecosystem-Analysis-1990-2019-
+# Romanian Forest and Bear Conflict Analysis (1990 - 2019)
 
 📊 Project Overview
-This data science project conducts an in-depth analysis of Romania's forest coverage, examining regional disparities, growth patterns, and conservation implications. The analysis provides evidence-based insights for environmental policy and sustainable forest management.
+A comprehensive data analysis project examining the relationship between forest growth patterns and bear-human conflicts in Romania from 1990 to 2019. This tool provides evidence-based insights for policymakers, conservationists, and local communities to develop balanced strategies for wildlife conservation and human livelihood protection.
 
+## Key Features
 
-Technical Implementation
+Forest Growth Analysis: Regional growth rates and trends across 9 historical regions
 
-•	Used R for statistical computing and data analysis
+Conflict Mapping: Identification of bear-human conflict hotspots
 
-•	Used dplyr for data manipulation and aggregation
+Geospatial Visualization: Interactive maps showing forest distribution changes
 
-•	Implemented ggplot2 for professional visualizations
+Statistical Modeling: ANOVA tests and correlation analysis
 
-•	Conducted ANOVA testing to validate regional differences
+Policy Recommendations: Data-driven priority regions for intervention
 
-•	Developed exponential growth models: Projected = Current × (1 + CAGR)^years
-
-
-Steps
-1. Data Collection - I used an open data file from Kaggle
-2. Data Processing - Handled NA values, cleaned columns
-3. Exploratory Analysis - Regional comparisons, growth rate calculations
-4. Statistical Testing - ANOVA for regional growth significance
-5. Predictive Modeling - Exponential growth projections (2026-2030)
-6. Geospatial Visualization - Thematic mapping with actual area labels 
+Automated Reporting: Comprehensive PDF and text report generation/n
 
 
 
-
-Key Findings
-
-•	Transilvania: 7,128k ha (Primary forest region, 47% of national total)
-
-•	Muntenia & Oltenia: 4,991k ha combined (Significant secondary forest zones)
-
-•	Dobrogea & Banat: 708k ha combined (Regions requiring conservation focus)
+## Quick Start Guide & Prerequisites  
+R 4.0+ installed on your system  
+RStudio (recommended) for easier execution  
+Required R packages: dplyr, tidyr, ggplot2, maps  
 
 
+## Key Analytical Insights
+
+Forest Growth (1990-2019)    
+National Average Growth: Calculated annually for each region  
+Regional Variations: Identifies fastest and slowest growing regions  
+Statistical Significance: ANOVA tests for regional differences  
 
 
-Growth Analysis
-
-•	Highest Growth: Transilvania (+0.223% annually) and Banat (+0.209%)
-
-•	Stagnant Regions: Bucovina (+0.00186%) showing minimal change
-
-•	Concerning Trend: Maramureș (-0.0372%) experiencing net deforestation
-
-•	Statistical Insight: ANOVA (p=0.155) confirms no significant regional growth differences
-
-<img width="971" height="495" alt="image" src="https://github.com/user-attachments/assets/005b8c55-87be-4951-9781-7f46adf5e6da" />
+## Bear Conflict Analysis  
+Hotspot Identification: Top 3 regions with highest conflict rates  
+Damage Patterns: Livestock damage vs. bear sightings correlation  
+Density Metrics: Conflicts per hectare calculations  
 
 
-
-
-Projections to 2030
-
-•	Transilvania expected to grow from 7,602k to 7,791k ha
-
-•	Maramureș projected to decline further to 770k ha
-
-•	Overall stable but minimal growth pattern continuing nationally
 
 
 
